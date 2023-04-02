@@ -1,0 +1,33 @@
+{
+    "success": {
+        "name": "Paty",
+        "email": "patyqsilva@gmail.com.br",
+        "password": "Teu@1234",
+        "is_shaver": false
+    },
+    "invpass": {
+        "email": "patyqsilva@gmail.com.br",
+        "password": "Beu@5534"
+    },
+    "email404": {
+        "email": "patyqsilva@404.com",
+        "password": "Teu@1234"
+    },
+    "shortpass": [
+        "1",
+        "12",
+        "123",
+        "1234",
+        "12345"
+    ],
+    "invemails": [
+        "paty&gmail.com",
+        "paty.com.br",
+        "@gmail.com",
+        "@",
+        "paty@",
+        "121323",
+        "@#@!#!@",
+        "xpto123"
+    ]
+}
